@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="99" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="99" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+      <class name="DucatTraining.MavenProject.MobileTest">
+        <test-method status="PASS" signature="mobiletest1()[pri:0, instance:DucatTraining.MavenProject.MobileTest@6b09bb57]" name="mobiletest1" duration-ms="1" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiletest1 -->
+        <test-method status="PASS" signature="mobiletest2()[pri:0, instance:DucatTraining.MavenProject.MobileTest@6b09bb57]" name="mobiletest2" duration-ms="0" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiletest2 -->
+      </class> <!-- DucatTraining.MavenProject.MobileTest -->
+      <class name="DucatTraining.MavenProject.WebTest">
+        <test-method status="PASS" signature="webtest1()[pri:0, instance:DucatTraining.MavenProject.WebTest@520a3426]" name="webtest1" duration-ms="0" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webtest1 -->
+        <test-method status="PASS" signature="webtest2()[pri:0, instance:DucatTraining.MavenProject.WebTest@520a3426]" name="webtest2" duration-ms="0" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webtest2 -->
+      </class> <!-- DucatTraining.MavenProject.WebTest -->
+      <class name="DucatTraining.MavenProject.DatabaseTest">
+        <test-method status="PASS" signature="Databasetest1()[pri:0, instance:DucatTraining.MavenProject.DatabaseTest@63753b6d]" name="Databasetest1" duration-ms="0" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Databasetest1 -->
+        <test-method status="PASS" signature="Databasetest2()[pri:0, instance:DucatTraining.MavenProject.DatabaseTest@63753b6d]" name="Databasetest2" duration-ms="0" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Databasetest2 -->
+      </class> <!-- DucatTraining.MavenProject.DatabaseTest -->
+      <class name="DucatTraining.MavenProject.APITest">
+        <test-method status="PASS" signature="APItest1()[pri:0, instance:DucatTraining.MavenProject.APITest@71423665]" name="APItest1" duration-ms="8" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APItest1 -->
+        <test-method status="PASS" signature="APItest2()[pri:0, instance:DucatTraining.MavenProject.APITest@71423665]" name="APItest2" duration-ms="1" started-at="2021-12-10T12:12:41 IST" finished-at="2021-12-10T12:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APItest2 -->
+      </class> <!-- DucatTraining.MavenProject.APITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
